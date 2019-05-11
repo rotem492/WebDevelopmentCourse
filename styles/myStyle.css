@@ -1,0 +1,255 @@
+
+body {
+    direction: rtl;
+    background-repeat:repeat-y;
+    background-image: url('../images/50-Beautiful-and-Minimalist-Presentation-Backgrounds-04.jpg');
+        font-family: Tahoma;
+      
+}
+#small_background {
+    width: 1000px;
+    height: 1500px;
+    margin-right: 195px;
+    margin-bottom: 30px;
+    display: inline block;
+    background-color: #698073;
+    opacity:0.65;
+    clear: none;
+}
+#container {
+    width: 700px;
+    margin-right: 370px;
+    margin-bottom: 30px;
+   
+}
+
+article {
+    background-color: antiquewhite;
+}
+
+ul {
+    list-style: none;
+    margin: 0 auto;
+   top: 10px; 
+        position: absolute;
+        right:375px;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+    nav ul li a {
+        display: block;
+        background-color: black;
+        color: #94C1B1;
+        font-weight: bold;
+        width: 129px;
+        height: 30px;
+        padding-top: 10px;
+        text-decoration: none;
+        text-align: center;
+        border: solid 0px;
+        margin: 15px;
+    }
+
+
+        nav ul li a:hover {
+            display: block;
+            background-color: whitesmoke;
+            color: #324035;
+            font-weight: bold;
+            width: 126px;
+            height: 30px;
+            padding-top: 10px;
+            text-decoration: none;
+            text-align: center;
+            border: 0px;
+            margin: 15px;
+        }
+
+        nav ul li a:active {
+            display: block;
+            background-color: whitesmoke;
+            color: #324035;
+            font-weight: bold;
+            width: 126px;
+            height: 30px;
+            padding-top: 10px;
+            text-decoration: none;
+            text-align: center;
+            border: solid 5px #324035;
+            margin: 10px;
+        }
+#location {
+    display: block;
+    background-color: whitesmoke;
+    color: #324035;
+    font-weight: bold;
+    width: 126px;
+    height: 30px;
+    padding-top: 10px;
+    text-decoration: none;
+    text-align: center;
+    border: 0px;
+    margin: 15px;
+}
+
+h1 {
+    font-size: 90px;
+    color: black;
+    clear: both;
+    margin-top:15px;
+   
+}
+h2 {
+    font-size: 40px;
+    color: black;
+    clear: both;
+    position: absolute;
+    top: 90px;
+    right: 385px;
+}
+h3 {
+    font-size: 30px;
+    color: black;
+       position: absolute;
+    top: 425px;
+    right: 550px;
+}
+h4 {
+    font-size: 20px;
+    color: #B1C9BB;
+    position: absolute;
+    right: 500px;
+    width: 620px;
+}
+#h4_one {
+        position: absolute;
+      top: 480px;
+}
+#h4_two {
+    position: absolute;
+    top: 810px;
+}
+#h4_three {
+    position: absolute;
+    top: 1140px;
+    right: 470px;
+}
+#open {
+    color: black;
+    border: 0px;
+    width: 620px;
+    height: 300px;
+    background-image: url('../images/white-background-vines.jpg');
+    opacity: 0.6;
+    margin-right: 15px;
+    text-align: center;
+    position: absolute;
+    top: 100px;
+}
+#P_open {
+    font-size: 30px;
+    margin-top: 15px;
+    right: 0px;
+    line-height: 40px;
+}
+img {
+    width: 220px;
+    height: 250px;
+    right: 550px;
+    position: absolute;
+    border: solid 3px black;
+   }
+
+#img1 {
+    top: 520px;
+    position: absolute;
+  }
+#img2 {
+    top: 850px;
+    position: absolute;
+    }
+#img3 {
+    top: 1180px;
+    position: absolute;
+}
+
+
+
+
+.youtube {  top: 150px;
+            margin-right:15px;
+            position: absolute;
+                     }
+
+.projectImg {
+    width: 295px;
+    height: 410px;
+    top: 580px;
+    right: 385px;
+    position: absolute;
+    float: right;
+    border: solid 3px black;
+}
+.projectImg2 {
+    width: 295px;
+    height: 410px;
+    top: 580px;
+     right: 710px;
+    position: absolute;
+    float:left;
+    border: solid 3px black;
+}
+.protraitIMG {
+    width: 620px;
+    height: 405px;
+   top: 150px;
+   right:385px;
+    position: absolute;
+}
+.posterImg {
+    width: 450px;
+    height: 550px;
+    margin-right: 100px;
+    top: 150px;
+    position: absolute;
+    right:370px;
+}
+
+p {
+    width: 620px;
+    font-size: 20px;
+    position: absolute;
+    right: 375px;
+    font-weight: bold;
+    line-height: 28px;
+    color:black;
+    text-align: center;
+}
+#p_project {
+    top: 1020px;
+    position: absolute;
+}
+#p_poster {
+    top: 730px;
+    position: absolute;
+}
+
+#p_portrait {
+    top: 580px;
+    position: absolute;
+}
+
+#footer1 {
+    color: white ;
+        top: 1540px;
+    position: absolute;
+}
+#footer2 {
+    color: white;
+    top: 1570px;
+    position: absolute;
+    margin-bottom:30px;
+}
